@@ -32,7 +32,7 @@ const SocialLink = () => {
         {
             id:4,
             child:(
-                <>LinkedIn <BsFillPersonFill size={30} /></>
+                <>Resume <BsFillPersonFill size={30} /></>
             ),
             href:"/sanjeev_Resume.pdf",
             style:'rounded-br-md',
