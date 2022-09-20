@@ -14,7 +14,7 @@ const Home = () => {
           <h2 className="text-4xl sm:text-2xl font-bold text-white">
             HI THERE! I'm
           </h2>
-          <h2 className="font-extrabold text-transparent text-6xl bg-clip-text bg-gradient-to-r from-purple-400 to-pink-600">
+          <h2 className="font-extrabold text-transparent text-5xl bg-clip-text bg-gradient-to-r from-purple-400 to-pink-600">
             Sanjeevkumar Kukanur
           </h2>
           <p className="text-gray-500 py-4 max-w-md">
@@ -39,7 +39,7 @@ const Home = () => {
           <img
             src={Profile}
             alt="my profile"
-            className="rounded-2xl mx-auto w-1/2 md:w-full"
+            className="rounded-2xl mx-auto  w-1/3 md:w-full"
           />
         </div>
       </div>
